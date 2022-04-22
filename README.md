@@ -1,1 +1,4 @@
-# pokemon-shop-web
+# pokemon-shop
+
+- HTML
+- CSS
